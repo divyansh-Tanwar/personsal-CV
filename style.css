@@ -1,0 +1,179 @@
+.top
+{   
+    background-color: #CDF0EA;
+    margin: 0px;
+}
+body
+{
+    margin:0px;
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+}
+
+h1
+{
+   /* width: 40%;  by setting the width this is no more a block or inline element so in this case we have to use margin keyword to center it*/
+  /*  margin:0 auto 0 auto;  we can also write it as margin:0 auto; */
+  margin: 0px;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 4em;
+  color: #66BFBF;
+  line-height:2;
+}
+.top-p
+{
+   font-size: 2em;
+   color: #66BFBF;
+   font-weight: normal;
+}
+
+span
+{
+   text-decoration: underline;
+}
+
+.bottom-cloud
+{
+   position: absolute;
+}
+
+.top-cloud
+{  
+    padding-top: 80px;
+    padding-bottom: 40px;
+   position:relative;
+   left: 200px;
+}
+/******************************middle container****************************************/
+.skill-row
+{
+   width: 50%;
+   margin:100px auto 200px auto;
+   text-align: left;
+   line-height: 2;
+}
+.img
+{
+   width: 25%;
+}
+
+
+.mid-h2
+{
+   font-size: 2em;
+}
+.mid-p
+{
+   font-size: 2em;
+   
+}
+
+.profile
+{
+   padding-top: 100px;
+   padding-bottom: 50px;
+   background-color: #A7D2CB;
+   margin-bottom: 0px;
+}
+.skills
+{
+   padding-top: 40px;
+   padding-bottom: 50px;
+   background-color: #9FC9F3;
+   margin-left: 0px;
+   margin-right: 0px;
+   margin-block-end: 0px;
+}
+
+hr
+{
+  margin:0px;
+}
+.mid-h22
+{
+   font-size:3em;
+}
+
+.web-d
+{
+   
+   width:30%;
+   float: left;
+   margin-right: 100px;
+}
+
+.graphic-d
+{
+   width:30%;
+   float: right;
+   margin-right: 100px;
+}
+.c
+{
+   
+   width:30%;
+   float: left;
+   margin-right: 100px;
+}
+.contact-me
+{
+   padding-top: 50px;
+   padding-bottom: 60px;
+   background-color:#E1FFEE;
+   line-height: 2;
+}
+.mid-h3
+{
+   font-size: 2em;
+   color: #006f72;
+}
+
+.btn {
+
+   background: #11cdd4;
+   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+   background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+   background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+   background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+   background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+   -webkit-border-radius: 10;
+   -moz-border-radius: 10;
+   border-radius: 10px;
+   font-family: Arial;
+   color: #ffffff;
+   font-size: 20px;
+   padding: 10px 20px 10px 20px;
+   text-decoration: none;
+ }
+ 
+ .btn:hover {
+   background: #30e3cb;
+   background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+   background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+   background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+   background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+   text-decoration: none;
+ }
+
+
+/*************************************************bottom container*************************************************/
+.bottom-container
+{ 
+   padding-top: 100px;
+   padding-bottom:50px;
+   background-color: #54BAB9;
+}
+.footer-link
+{
+   font-size: 2em;
+   
+}
+
+a
+{
+   color: #3416bc;
+}
+
+
+
